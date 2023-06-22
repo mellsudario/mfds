@@ -4,11 +4,11 @@ Tutorial básico de Git e GitHub:
 Passo 1: Configurar o Git 
 É importante configurar o Git antes de começar com seu nome de usuário e e-mail do GitHub. Você pode fazer isso usando os seguintes comandos no terminal ou no Git Bash:
 
-arduinoCopy code
+    arduinoCopy code
 
-$ git config --global user.name "seu_usuario_no_github"
+    $ git config --global user.name "seu_usuario_no_github"
 
-$ git config --global user.email "seu_email_do_github"
+    $ git config --global user.email "seu_email_do_github"
 
 
 Passo 2: Iniciar um repositório 
@@ -22,7 +22,7 @@ $ git init
 Passo 3: Adicionar arquivos ao commit 
 Existem duas maneiras de adicionar arquivos ao commit:
     
-    Se você quer adicionar todos os arquivos do diretório atual, use o comando:
+Se você quer adicionar todos os arquivos do diretório atual, use o comando:
     
 csharpCopy code
 
