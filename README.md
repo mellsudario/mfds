@@ -4,11 +4,11 @@ Tutorial básico de Git e GitHub:
 Passo 1: Configurar o Git 
 É importante configurar o Git antes de começar com seu nome de usuário e e-mail do GitHub. Voce pode fazer isso usando os seguintes comandos no terminal ou no Git Bash:
 
-  arduinoCopy code
+    arduinoCopy code
 
-  $ git config --global user.name "seu_usuario_no_github"
+    $ git config --global user.name "seu_usuario_no_github"
 
-  $ git config --global user.email "seu_email_do_github"
+    $ git config --global user.email "seu_email_do_github"
 
 Passo 2: Iniciar um repositório 
 Vá até o diretório onde  os arquivos que você deseja estão e execute este comando para iniciar um repositório:
