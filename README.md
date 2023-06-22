@@ -19,13 +19,13 @@ $ git init
 
 Passo 3: Adicionar arquivos ao commit 
 Existem duas maneiras de adicionar arquivos ao commit:
-    • Se você quer adicionar todos os arquivos do diretório atual, use o comando:
+    Se você quer adicionar todos os arquivos do diretório atual, use o comando:
     
 csharpCopy code
 
 $ git add .
 
-    • Se você quer adicionar apenas arquivos, utileze o comando:
+   Se você quer adicionar apenas arquivos, utileze o comando:
     
 csharpCopy code
 
