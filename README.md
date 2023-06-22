@@ -1,5 +1,5 @@
 # mfds
-Tutorial básico de Git e GitHub:
+Tutorial de Git e GitHub:
 
 Passo 1: Configurar o Git
 
